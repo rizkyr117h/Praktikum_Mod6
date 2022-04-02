@@ -1,0 +1,15 @@
+{
+   "firstName": "Muhammad ",
+   "lastName": "Hazim Abubakar",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Labuhan Dalam,",
+       "city": " Bandarlampung,",
+       "state": " Lampung"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2D3", "name": "Kecerdasan Buatan" }
+   ]
+}

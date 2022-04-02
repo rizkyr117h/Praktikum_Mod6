@@ -1,0 +1,15 @@
+{
+   "firstName": "Firman Panji",
+   "lastName": "Utama",
+   "gender": "male",
+   "age": 20,
+   "address": {
+       "streetAddress": "Jln Telekomunikasi",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2C1", "name": "Basis Data" }
+   ]
+}

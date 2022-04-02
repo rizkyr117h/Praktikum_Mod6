@@ -1,0 +1,11 @@
+C:\Users\Panji\Documents\VS Community things\JurnalMod6\Praktikum_Mod6\modul6_kelompok_1\modul6_kelompok_1\bin\Debug\modul6_kelompok_1.exe.config
+C:\Users\Panji\Documents\VS Community things\JurnalMod6\Praktikum_Mod6\modul6_kelompok_1\modul6_kelompok_1\bin\Debug\modul6_kelompok_1.exe
+C:\Users\Panji\Documents\VS Community things\JurnalMod6\Praktikum_Mod6\modul6_kelompok_1\modul6_kelompok_1\bin\Debug\modul6_kelompok_1.pdb
+C:\Users\Panji\Documents\VS Community things\JurnalMod6\Praktikum_Mod6\modul6_kelompok_1\modul6_kelompok_1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Panji\Documents\VS Community things\JurnalMod6\Praktikum_Mod6\modul6_kelompok_1\modul6_kelompok_1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Panji\Documents\VS Community things\JurnalMod6\Praktikum_Mod6\modul6_kelompok_1\modul6_kelompok_1\obj\Debug\modul6_kelompok_1.csproj.AssemblyReference.cache
+C:\Users\Panji\Documents\VS Community things\JurnalMod6\Praktikum_Mod6\modul6_kelompok_1\modul6_kelompok_1\obj\Debug\modul6_kelompok_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Panji\Documents\VS Community things\JurnalMod6\Praktikum_Mod6\modul6_kelompok_1\modul6_kelompok_1\obj\Debug\modul6_kelompok_1.csproj.CoreCompileInputs.cache
+C:\Users\Panji\Documents\VS Community things\JurnalMod6\Praktikum_Mod6\modul6_kelompok_1\modul6_kelompok_1\obj\Debug\modul6_kelompok_1.csproj.CopyComplete
+C:\Users\Panji\Documents\VS Community things\JurnalMod6\Praktikum_Mod6\modul6_kelompok_1\modul6_kelompok_1\obj\Debug\modul6_kelompok_1.exe
+C:\Users\Panji\Documents\VS Community things\JurnalMod6\Praktikum_Mod6\modul6_kelompok_1\modul6_kelompok_1\obj\Debug\modul6_kelompok_1.pdb

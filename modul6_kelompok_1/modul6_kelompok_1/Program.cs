@@ -10,6 +10,8 @@ namespace modul6_kelompok_1
     {
         static void Main(string[] args)
         {
+            //json Panji
+            DataMahasiswa1302200089.ReadJSON();
         }
     }
 }

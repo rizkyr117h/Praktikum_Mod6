@@ -1,0 +1,15 @@
+{
+   "firstName": "Muhammad Qalbun Saliim",
+   "lastName": "Bakhri",
+   "gender": "male",
+   "age": 19,
+   "address": {
+       "streetAddress": "Jl Swasembada Timur III",
+       "city": "Jakarta Utara",
+       "state": "DKI Jakarta"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2XX", "name": "AI" }
+   ]
+}

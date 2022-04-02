@@ -10,6 +10,8 @@ namespace modul6_kelompok_1
     {
         static void Main(string[] args)
         {
+            //Rizky
+            DataMahasiswa1302203122.ReadJson();
         }
     }
 }
